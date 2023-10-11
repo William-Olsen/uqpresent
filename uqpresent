@@ -1,9 +1,5 @@
-@charset "UTF-8";
-/*!
- * Marp uqpresent theme.
- * @theme uqpresent
- * @author Will Olsen
- */
+/* uqpresent.css */
+/* @theme uqpresent */
 
 @import 'default';
 
